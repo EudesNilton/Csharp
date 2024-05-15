@@ -12,3 +12,4 @@ C:\Users\HP Amanda\Desktop\Nova pasta\Csharp\studyingCsharp3\obj\Debug\net8.0\re
 C:\Users\HP Amanda\Desktop\Nova pasta\Csharp\studyingCsharp3\obj\Debug\net8.0\studyingCsharp3.pdb
 C:\Users\HP Amanda\Desktop\Nova pasta\Csharp\studyingCsharp3\obj\Debug\net8.0\studyingCsharp3.genruntimeconfig.cache
 C:\Users\HP Amanda\Desktop\Nova pasta\Csharp\studyingCsharp3\obj\Debug\net8.0\ref\studyingCsharp3.dll
+C:\Users\HP Amanda\Desktop\Nova pasta\Csharp\studyingCsharp3\obj\Debug\net8.0\studyingCsharp3.sourcelink.json
