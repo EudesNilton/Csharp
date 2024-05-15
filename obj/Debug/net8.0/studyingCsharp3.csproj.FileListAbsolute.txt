@@ -1,0 +1,14 @@
+C:\Users\HP Amanda\Desktop\Nova pasta\Csharp\studyingCsharp3\bin\Debug\net8.0\studyingCsharp3.exe
+C:\Users\HP Amanda\Desktop\Nova pasta\Csharp\studyingCsharp3\bin\Debug\net8.0\studyingCsharp3.deps.json
+C:\Users\HP Amanda\Desktop\Nova pasta\Csharp\studyingCsharp3\bin\Debug\net8.0\studyingCsharp3.runtimeconfig.json
+C:\Users\HP Amanda\Desktop\Nova pasta\Csharp\studyingCsharp3\bin\Debug\net8.0\studyingCsharp3.dll
+C:\Users\HP Amanda\Desktop\Nova pasta\Csharp\studyingCsharp3\bin\Debug\net8.0\studyingCsharp3.pdb
+C:\Users\HP Amanda\Desktop\Nova pasta\Csharp\studyingCsharp3\obj\Debug\net8.0\studyingCsharp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Amanda\Desktop\Nova pasta\Csharp\studyingCsharp3\obj\Debug\net8.0\studyingCsharp3.AssemblyInfoInputs.cache
+C:\Users\HP Amanda\Desktop\Nova pasta\Csharp\studyingCsharp3\obj\Debug\net8.0\studyingCsharp3.AssemblyInfo.cs
+C:\Users\HP Amanda\Desktop\Nova pasta\Csharp\studyingCsharp3\obj\Debug\net8.0\studyingCsharp3.csproj.CoreCompileInputs.cache
+C:\Users\HP Amanda\Desktop\Nova pasta\Csharp\studyingCsharp3\obj\Debug\net8.0\studyingCsharp3.dll
+C:\Users\HP Amanda\Desktop\Nova pasta\Csharp\studyingCsharp3\obj\Debug\net8.0\refint\studyingCsharp3.dll
+C:\Users\HP Amanda\Desktop\Nova pasta\Csharp\studyingCsharp3\obj\Debug\net8.0\studyingCsharp3.pdb
+C:\Users\HP Amanda\Desktop\Nova pasta\Csharp\studyingCsharp3\obj\Debug\net8.0\studyingCsharp3.genruntimeconfig.cache
+C:\Users\HP Amanda\Desktop\Nova pasta\Csharp\studyingCsharp3\obj\Debug\net8.0\ref\studyingCsharp3.dll
