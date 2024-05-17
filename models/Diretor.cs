@@ -5,14 +5,12 @@ using System.Threading.Tasks;
 
 namespace studyingCsharp3.models
 {
-    public class Professor : Pessoa
+    public class Diretor : Professor
     {
-        public Professor(string nome) : base(nome)
+        public Diretor(string nome) : base(nome)
         {
-      
+            
         }
-
-        public int Salario { get; set; }
 
         public override void Apresentar()
         {

@@ -7,6 +7,15 @@ namespace studyingCsharp3.models
 {
     public class Aluno : Pessoa //herança
     {
+        public Aluno()
+        {
+            
+        }
+        public Aluno(string nome) : base(nome)
+        {
+
+        }
+
         public double Nota { get; set; }
 
         public override void Apresentar() //sobrescreva com o override
